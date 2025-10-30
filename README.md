@@ -1,4 +1,8 @@
 # IoT Data Analytics Dashboard
+<img width="1920" height="1243" alt="Screenshot 1" src="https://github.com/user-attachments/assets/8ff08ead-0c70-4375-ba9e-754c63c044fe" />
+<img width="1920" height="1243" alt="Screenshot 2" src="https://github.com/user-attachments/assets/1505cef3-8f6b-4f1c-8b8a-91e4f0cf6bc5" />
+<img width="1920" height="1243" alt="Screenshot 3" src="https://github.com/user-attachments/assets/3b3f53a1-6c90-4c38-82e2-dcf03a589733" />
+
 
 ## Overview
 
